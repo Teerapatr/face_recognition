@@ -1,4 +1,4 @@
-# Face Recognition
+
 
 _You can also read a translated version of this file [in Chinese 简体中文版](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md) or [in Korean 한국어](https://github.com/ageitgey/face_recognition/blob/master/README_Korean.md)._
 
@@ -17,9 +17,9 @@ you do face recognition on a folder of images from the command line!
 [![Build Status](https://travis-ci.org/ageitgey/face_recognition.svg?branch=master)](https://travis-ci.org/ageitgey/face_recognition)
 [![Documentation Status](https://readthedocs.org/projects/face-recognition/badge/?version=latest)](http://face-recognition.readthedocs.io/en/latest/?badge=latest)
 
-## Features
 
-#### Find faces in pictures
+
+
 
 Find all the faces that appear in a picture:
 
